@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhavy Kharbanda</h1>
 <h3 align="center">A passionate Flutter Developer and a Machine Learning enthusiast.</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kharbandabhavy&label=Profile%20views&color=0e75b6&style=flat" alt="kharbandabhavy" /> </p>
 
