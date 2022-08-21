@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter developer and a Machine Learning enthusiast.</h3>
 <img allign="right" alt="Coding" width="400" src="https://tenor.com/search/coding-gifs"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kharbandabhavy&label=Profile%20views&color=0e75b6&style=flat" alt="kharbandabhavy" /> </p>
+
 
 
 
