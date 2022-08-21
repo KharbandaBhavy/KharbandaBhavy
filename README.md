@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **Artificial Intelligence Algorithms**
+- 🤖 I’m currently working on **Artificial Intelligence Algorithms**
 
-- 🌱 I’m currently learning **Robotics and intelligent systems**
+- 🏫 I’m currently learning **Robotics and intelligent systems**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
