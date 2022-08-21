@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter developer and a Machine Learning enthusiast.</h3>
 <img allign="right" alt="Coding" width="400" src="https://tenor.com/search/coding-gifs"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kharbandabhavy&label=Profile%20views&color=0e75b6&style=flat" alt="kharbandabhavy" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kharbandabhavy&label=Profile%20views&color=0e75b6&style=flat](https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)" alt="kharbandabhavy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kharbandabhavy" target="blank"><img src="https://img.shields.io/twitter/follow/kharbandabhavy?logo=twitter&style=for-the-badge" alt="kharbandabhavy" /></a> </p>
 
