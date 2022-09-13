@@ -48,6 +48,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tejas-trivedi/tejas-trivedi/raw/output/github-contribution-grid-snake.svg"
+  <img src="https://github.com/KharbandaBhavy/KharbandaBhavy/blob/0bde1437196d51e4723d0efeef1f39de4be5f281/snake.svg"
 alt="snake"></center>
 </p>
