@@ -40,3 +40,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharbandabhavy&show_icons=true&locale=en" alt="kharbandabhavy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharbandabhavy&" alt="kharbandabhavy" /></p>
+
+<p align="center">
+  <img src="https://github.com/tejas-trivedi/tejas-trivedi/raw/output/github-contribution-grid-snake.svg"
+alt="snake"></center>
+</p>
