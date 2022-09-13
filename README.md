@@ -40,6 +40,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharbandabhavy&y&theme=algoliashow_icons=true&locale=en" alt="kharbandabhavy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharbandabhavy&y&theme=algolia" alt="kharbandabhavy" /></p>
 </p>
+
+<p align="center">
+<a href="https://github.com/KharbandaBhavy">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KharbandaBhavy&theme=algolia" alt="tejas-trivedi" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KharbandaBhavy&hide=html&langs_count=6&count_private=true&theme=algolia&exclude_repo=Future_Price_Prediction_of_Products,Machine_Learning_Basics,Financial_Analysis,Machine_Learning_Basic_models,Operation-Research-Lab&layout=compact"/></a>
+</p>
+
 <p align="center">
   <img src="https://github.com/tejas-trivedi/tejas-trivedi/raw/output/github-contribution-grid-snake.svg"
 alt="snake"></center>
