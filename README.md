@@ -41,6 +41,7 @@
 
 <img src="https://github.com/KharbandaBhavy/KharbandaBhavy/blob/c2021c7f8694f6859145f77996c0382cf002b1f1/divider.gif" width="1200" height="10"></h2>
 
+<h3 align="left">Github Stats:</h3>
 <p align="center">
 <a href="https://github.com/KharbandaBhavy">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KharbandaBhavy&theme=algolia" alt="tejas-trivedi" />
