@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Bhavykharbanda162001@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1LyCCT69pBB6-z7LF52n3IDmKtqEw03GG/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1gF0dkQHRkI78VlZm0LOAvrR6qt39Z_SO/view?usp=sharing)
 
 - ⚡ Fun fact **You are going to meet an amazing coder with a great sense of humor... Ofcourse not here**
 
